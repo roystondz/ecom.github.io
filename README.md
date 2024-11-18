@@ -2,8 +2,6 @@
 
 🌐 Welcome to our HTML and CSS-powered e-commerce website!
 
-🛍️ Discover a world of online shopping with our beautifully designed, user-friendly website. Explore a wide range of products, from fashion and electronics to home decor and more.
-
 💡 Key Features:
 - Browse our extensive catalog of high-quality products.
 - Seamlessly navigate through categories and find what you need.
